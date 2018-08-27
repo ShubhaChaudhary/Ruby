@@ -1,0 +1,6 @@
+whatage=gets.to_i
+if whatage>18
+puts "Welcome to casino!"
+else
+puts" sorry you're too young"
+end
